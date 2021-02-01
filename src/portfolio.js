@@ -15,7 +15,7 @@ const greeting = {
     "A passionate Android app Developer and Security Researcher having an experience of building Mobile applications with Kotlin,Java and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1f9z7TNNyBGTIfgUTmlkjg09LX8K1zAtY/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -178,7 +178,7 @@ const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "shamanth-hs", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
