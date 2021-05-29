@@ -34,6 +34,7 @@ export default function Contact() {
               </a>
               <br />
               <br />
+
               <a
                 className="contact-detail"
                 href={"mailto:" + contactInfo.emailAddress}

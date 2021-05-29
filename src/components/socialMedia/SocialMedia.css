@@ -25,6 +25,9 @@
   margin-bottom: 10px;
   transition: 0.2s ease-in;
 }
+.whatsapp i {
+  background-color:#0df033;
+}
 
 .facebook i {
   background-color: #3b5998;
@@ -64,6 +67,7 @@
 
 /* Hover Transition */
 .twitter i:hover,
+.whatsapp i:hover,
 .google i:hover,
 .gitlab i:hover,
 .github i:hover,

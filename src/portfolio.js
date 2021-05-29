@@ -26,6 +26,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/shamanth-hs-75a7a1141/",
   gmail: "shamanthhs494@gmail.com",
   medium: "https://medium.com/@shamanthhs494",
+  whatsapp: "918660801910",
   // Instagram and Twitter are also supported in the links!
   display: true, // Set true to display this section, defaults to false
 };
@@ -286,19 +287,21 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+        "https://shamanthhs494.medium.com/blog-cracking-wpa-wpa2-passwords-home-lab-1faf16133f4e",
+      title: "Blog — Cracking WPA/WPA2 Passwords (home lab)",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
+        "A step by step guide to crack WPA/WPA2 encrypted wifi password and also how to protect yourself from the attack",
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url:
+        "https://shamanthhs494.medium.com/cross-platform-vs-native-apps-which-one-to-choose-for-your-mobile-app-development-1c16ba415d99",
+      title:
+        "Cross-platform vs native apps. Which one to choose for your mobile app development?",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
+        "If you are a developer who wants to build an android app or ios app but confused to choose the tech stack. Here is the soluton",
     },
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -339,6 +342,7 @@ const contactInfo = {
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-8660801910",
   emailAddress: "shamanthhs494@gmail.com",
+  whatsappNumber: 918660801910,
 };
 
 // Twitter Section
