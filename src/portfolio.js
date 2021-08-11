@@ -12,10 +12,10 @@ const greeting = {
   username: "Shamanth HS",
   title: "Hi all, I'm Shamanth",
   subTitle: emoji(
-    "A passionate Android app Developer and Security Researcher having an experience of building Mobile applications with Kotlin,Java and some other cool libraries and frameworks."
+    "A passionate Android app Developer and Security Researcher having an experience in building Mobile applications with Kotlin,Java and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1f9z7TNNyBGTIfgUTmlkjg09LX8K1zAtY/view?usp=sharing",
+    "https://drive.google.com/file/d/1XGYp-q9wWWoNcjdoazSgcbgkezvh0TKV/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -299,6 +299,14 @@ const blogSection = {
         "Cross-platform vs native apps. Which one to choose for your mobile app development?",
       description:
         "If you are a developer who wants to build an android app or ios app but confused to choose the tech stack. Here is the soluton",
+    },
+    {
+      url:
+        "https://shamanthhs494.medium.com/firebase-performance-and-analytics-for-android-fragments-fe02a141f8b2",
+      title:
+        "Firebase Performance and analytics for Android Fragments",
+      description:
+        "How to track the performance of Android Fragment in your app. Here is the blog",
     },
   ],
   display: true, // Set false to hide this section, defaults to true
